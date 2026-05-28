@@ -29,7 +29,7 @@ outputs/*
 .DS_Store
 Thumbs.db
 
-#PandasAI
+# PandasAI
 datasets/
 exports/
 pandasai.log
