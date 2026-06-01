@@ -89,8 +89,8 @@ If needed, install the Jupyter extension for Cursor:
 https://cursor.dev/docs/extension/jupyter
 
 ## View Notebook
-- 📊 [View with outputs](https://Sri-Bandhakavi.github.io/pandasai-quickstart-guide/pandasai_quickstart_guide.html)
-- ▶️ [Run it yourself](pandasai_quickstart_guide.ipynb) - download and run locally in Cursor or VS Code (note: does not render in GitHub's preview)
+- 📊 [View with outputs](https://Sri-Bandhakavi.github.io/pandasai-quickstart-guide/pandasai_quickstart_guide.html) — opens via GitHub Pages (link above works, clicking the .html file in the repo shows raw code)
+- ▶️ [Run it yourself](pandasai_quickstart_guide.ipynb) — download and run locally in Jupyter or VS Code (note: does not render in GitHub's preview)
 
 ---
 
