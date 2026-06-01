@@ -90,7 +90,7 @@ https://cursor.dev/docs/extension/jupyter
 
 ## View Notebook
 - 📊 [View with outputs](https://Sri-Bandhakavi.github.io/pandasai-quickstart-guide/pandasai_quickstart_guide.html)
-- ▶️ [Run it yourself](pandasai_quickstart_guide.ipynb)
+- ▶️ [Run it yourself](pandasai_quickstart_guide.ipynb) - download and run locally in Cursor or VS Code (note: does not render in GitHub's preview)
 
 ---
 
