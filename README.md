@@ -89,7 +89,7 @@ If needed, install the Jupyter extension for Cursor:
 https://cursor.dev/docs/extension/jupyter
 
 ## View Notebook
-- 📊 [View with outputs](https://Sri-Bandhakavi.github.io/pandasai-quickstart-guide/pandasai_quickstart_guide.ipynb.html)
+- 📊 [View with outputs](https://Sri-Bandhakavi.github.io/pandasai-quickstart-guide/pandasai_quickstart_guide.html)
 - ▶️ [Run it yourself](pandasai_quickstart_guide.ipynb)
 
 ---
